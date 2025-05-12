@@ -1,0 +1,15 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+# SpecStory explanation file
+.specstory/.what-is-this.md
+
+# Environment variables
+.env
